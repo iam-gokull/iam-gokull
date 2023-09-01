@@ -2,9 +2,9 @@
 
 I'm a passionate software tester with a strong interest in development, aiming to become a proficient full-stack developer. Welcome to my Github profile, where you'll find a collection of projects and endeavors that reflect my journey in the tech world.
 
-## About me
+<!-- ## About me
 
-Born on a serene day in 2000, I embnarked on a journey that seamlessly blended my educational pursuits, professional endeavors, and personal passions. My love for technology led me to delve into the intricate world of software development.
+Born on a serene day in 2000, I embnarked on a journey that seamlessly blended my educational pursuits, professional endeavors, and personal passions. My love for technology led me to delve into the intricate world of software development. -->
 
 <!-- ## Skills
 
