@@ -1,6 +1,6 @@
 # Hi there! I'm Gokul L 👋 
 
-I'm a passionate software tester with a strong interest in development, aiming to become a proficient full-stack developer. Welcome to my Github profile, where you'll find a collection of projects and endeavors that reflect my journey in the tech world.
+I'm a passionate software tester with a strong interest in development, aiming to become a proficient Software developer. Welcome to my Github profile, where you'll find a collection of projects and endeavors that reflect my journey in the tech world.
 
 <!-- ## About me
 
